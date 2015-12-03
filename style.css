@@ -1,0 +1,14 @@
+.small-iframe {
+    width: 20rem;
+    height: 20rem;
+}
+
+.medium-iframe {
+    width: 40rem;
+    height: 40rem;
+}
+
+.large-iframe {
+    width: 60rem;
+    height: 60rem;
+}
